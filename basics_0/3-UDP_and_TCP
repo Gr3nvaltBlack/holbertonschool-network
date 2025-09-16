@@ -1,5 +1,3 @@
-#!/usr/bin/env bash
-# TCP = reliable, slow; UDP = fast, may lose data.
 1
 2
 1
